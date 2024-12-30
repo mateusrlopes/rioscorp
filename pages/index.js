@@ -1,5 +1,5 @@
 function Home () {
-    return <h1>Esse pode ser o nosso futuro forte!</h1>
+    return <h1>O futuro é imprevisível mas se torna brilhante conforme o tempo passa!</h1>
 } 
 
 export default Home;
